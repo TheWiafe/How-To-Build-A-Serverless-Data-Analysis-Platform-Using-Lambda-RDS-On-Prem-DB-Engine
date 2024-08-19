@@ -18,7 +18,7 @@ Specifically, this project creates a solution that;
 
 6. Is implemented within a VPC and subnet architecture.
    
-Ready to take your serverless data analytics to the next level? Kindly click on this [link]([https://medium.com/@wiafeemmanuel600/how-to-create-an-automatic-file-upload-notification-system-pipeline-cef4033bfa6c](https://medium.com/@wiafeemmanuel600/how-to-build-a-serverless-data-analysis-platform-using-aws-lambda-rds-and-on-premises-database-8eb6223320d3)) to view the full project details in my blog.  
+Ready to take your serverless data analytics to the next level? Kindly click on this [link](https://medium.com/@wiafeemmanuel600/how-to-build-a-serverless-data-analysis-platform-using-aws-lambda-rds-and-on-premises-database-8eb6223320d3) to view the full project details in my blog.  
 
 ## Contributing
 Users can contribute to the project by reporting issues, submitting bug fixes, or adding new features. To contribute:
