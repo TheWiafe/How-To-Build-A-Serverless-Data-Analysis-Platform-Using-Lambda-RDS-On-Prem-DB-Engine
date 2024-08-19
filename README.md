@@ -8,10 +8,10 @@ Specifically, this project creates a solution that;
 
 1. Utilizes AWS Lambda functions for data processing.
    
-2. Access data from a private RDS database.
+2. Access data from a private RDS database (Architecture below).
 ![Privately Accessible RDS Architecture](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Privately%20Accessible%20RDS%20Architecture.png)
 
-4. Access data from a public RDS database.
+4. Access data from a public RDS database (Architecture below).
 ![Publicly Accessible RDS Architecture](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Publicly%20Accessible%20RDS%20Architecture.png)
 
 5. Access RDS database using On-Prem DB engine.
