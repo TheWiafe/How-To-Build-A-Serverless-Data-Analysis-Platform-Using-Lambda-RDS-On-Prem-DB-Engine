@@ -1,8 +1,8 @@
 # How To Build A Serverless Data Analysis Platform Using AWS Lambda, RDS and On-Premises Database Engine.
 
-![Privately Accessible RDS Architecture]([https://github.com/TheWiafe/Automatic-File-Upload-Notification-System-Pipeline-/blob/main/System%20Architecture.png](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Privately%20Accessible%20RDS%20Architecture.webp))
+![Privately Accessible RDS Architecture](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Privately%20Accessible%20RDS%20Architecture.png))
 
-![Publicly Accessible RDS Architecture]([[https://github.com/TheWiafe/Automatic-File-Upload-Notification-System-Pipeline-/blob/main/System%20Architecture.png](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Privately%20Accessible%20RDS%20Architecture.webp](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Publicly%20Accessible%20RDS%20Architecture.webp)))
+![Publicly Accessible RDS Architecture](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Publicly%20Accessible%20RDS%20Architecture.png))
 
 ## Problem Statement
 
