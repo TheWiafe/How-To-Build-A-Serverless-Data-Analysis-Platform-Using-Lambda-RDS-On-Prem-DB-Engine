@@ -7,11 +7,15 @@ Many organizations struggle with efficient data analysis while ensuring scalabil
 Specifically, this project creates a solution that;
 
 1. Utilizes AWS Lambda functions for data processing.
+   
 2. Access data from a private RDS database.
 ![Privately Accessible RDS Architecture](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Privately%20Accessible%20RDS%20Architecture.png)
+
 4. Access data from a public RDS database.
 ![Publicly Accessible RDS Architecture](https://github.com/TheWiafe/How-To-Build-A-Serverless-Data-Analysis-Platform-Using-Lambda-RDS-On-Prem-DB-Engine/blob/main/Publicly%20Accessible%20RDS%20Architecture.png)
+
 5. Access RDS database using On-Prem DB engine.
+
 6. Is implemented within a VPC and subnet architecture.
    
 Ready to take your serverless data analytics to the next level? Kindly click on this [link]([https://medium.com/@wiafeemmanuel600/how-to-create-an-automatic-file-upload-notification-system-pipeline-cef4033bfa6c](https://medium.com/@wiafeemmanuel600/how-to-build-a-serverless-data-analysis-platform-using-aws-lambda-rds-and-on-premises-database-8eb6223320d3)) to view the full project details in my blog.  
